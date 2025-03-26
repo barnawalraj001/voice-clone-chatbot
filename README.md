@@ -50,7 +50,7 @@ voice-clone-chatbot/
 4. **Set up API keys**
    - Get an **ElevenLabs API Key** from [ElevenLabs](https://elevenlabs.io)
    - Get a **Gemini API Key** from [Google AI](https://ai.google.dev)
-   - Add them to a `.env` file:
+   - Add them to a app.py file:
      ```
      ELEVENLABS_API_KEY=your-elevenlabs-key
      GEMINI_API_KEY=your-gemini-key
