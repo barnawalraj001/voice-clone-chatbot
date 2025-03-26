@@ -72,8 +72,7 @@ voice-clone-chatbot/
 - 🎭 **Multiple Voice Profiles**
 - 🔄 **Integration with More AI Models**
 
-## 📝 License
-This project is licensed under the **MIT License**.
+
 
 ---
 
